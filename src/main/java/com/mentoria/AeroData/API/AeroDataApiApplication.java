@@ -1,4 +1,4 @@
-package com.mentoria.AeroData_API;
+package com.mentoria.AeroData.API;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
